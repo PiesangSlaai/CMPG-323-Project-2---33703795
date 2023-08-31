@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using CMPG_323_Project_2___33703795.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CMPG_323_Project_2___33703795.Controllers
 {
